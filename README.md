@@ -5,5 +5,5 @@ n = int(input())
 
 i = 0
 while i < n:
-    print(i)
+    print(i*i)
     i += 1
